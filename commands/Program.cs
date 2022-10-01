@@ -11,18 +11,19 @@ namespace commands
         static void Main(string[] args)
         {
             bool isOpen = true;
-            bool blocked = false;
+            bool isblocked = false;
             bool key = true;
             string password = null;
             int passwordAttempts = 3;
 
             while (isOpen == true)
             {
-                if (blocked == true)
+                if (isblocked == true)
                 {
                     for (int i = 0; i < passwordAttempts; i++)
                     {
                         Console.Write("Введите пароль: ");
+
                         if (password == Console.ReadLine())
                         {
                             Console.Clear();
@@ -52,7 +53,7 @@ namespace commands
                             Console.Clear();
                             Console.Write("Придумайте пароль: ");
                             password = Console.ReadLine();
-                            blocked = true;
+                            isblocked = true;
                             Console.ReadKey();
                             break;
                         case CommandGenerateNumber:
