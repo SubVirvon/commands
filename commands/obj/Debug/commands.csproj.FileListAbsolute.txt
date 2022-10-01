@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\commands\commands\bin\Debug\commands.exe.config
+C:\Users\Danii\source\repos\commands\commands\bin\Debug\commands.exe
+C:\Users\Danii\source\repos\commands\commands\bin\Debug\commands.pdb
+C:\Users\Danii\source\repos\commands\commands\obj\Debug\commands.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\commands\commands\obj\Debug\commands.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\commands\commands\obj\Debug\commands.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\commands\commands\obj\Debug\commands.exe
+C:\Users\Danii\source\repos\commands\commands\obj\Debug\commands.pdb
